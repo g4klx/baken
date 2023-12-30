@@ -27,4 +27,4 @@ Please note that using older versions of GTK+ can produce problems. I
 recommend that you try and get the latest version that you can. My
 development was done with GTK+ version 1.2.2.
 
-Jonathan  ON/G4KLX
+Jonathan  G4KLX
