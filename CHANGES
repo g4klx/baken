@@ -1,0 +1,92 @@
+v0.1  13 October 1999
+
+Initial release
+
+
+v0.2  23 October 1999
+
+Updated info box to say 0.2 instead of 1.0.
+
+Allowed lower case locaters to be entered in the user edit dialogue box.
+
+Fixed problem with program ending if an invalid locator was entered in the
+user edit dialogue box.
+
+Added List option in the File menu.
+
+
+v0.3  27 October 1999
+
+Used new map data, its both smaller and a little more detailed than the
+previous data. Also the old East German border is now gone.
+
+Changed main map extents a little to produce a more normal looking map.
+
+Fixed bug in detail map when choosing which beacons data to display.
+
+Added some newer beacons to the beacon file.
+
+Added the "Locators..." option to the File menu to do standard locator
+calculations.
+
+
+v0.4  27 December 2000
+
+Allow for multiple bands to be displayed simultaneously.
+
+Allow for more than just beacons to be displayed. Changed the format of the
+data files that hold the beacon/other data.
+
+
+v0.5 19 September 2001
+
+Added section for Rain Scatter (RS) stations, and a program called rslist
+that can parse the Rain Scatter station list from DG1VL.
+
+Added option to calculate the scatter point between two stations, based on
+the program REGEN.BAS written by Rudi OE5VRL.
+
+Added section for TV repeaters.
+
+
+v0.5.1 26 May 2003
+
+Removed the dialogue box when exiting the program.
+
+Changed format of data files slightly. All antenna directions are assumed to
+be Omni unless values given, beam angles are in degrees and are comma
+delimited.
+
+Display arrow if station has directionality.
+
+New program old2new converts files to the new format.
+
+Updated direction dialog box to include reverse angles.
+
+Partial update to the beacon list based on the DUBUS listings published in
+2002. Only microwave beacons have been updated.
+
+Updated distance calculations to be the IARU standard method.
+
+
+v0.5.2 19 March 2004
+
+Updated the beacon file based on the beacon list in DUBUS 1/2004. This
+covers only up to 70cms.
+
+
+v0.5.3 4 June 2003
+
+Updated the beacon file based on the beacon list in DUBUS 2/2004. This
+covers from 23cms up to light.
+
+Changed the menu to look more up to date, the Help was shifted to the left
+hand side.
+
+
+v0.5.4 March 2005
+
+Updated the beacons up to and including 70cms from the beacon list in DUBUS
+1/2005.
+
+Updated the scatter point calculation so that it is now correct.

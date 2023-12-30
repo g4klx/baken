@@ -1,0 +1,109 @@
+[HB9BBD/P]
+frequency=1296.044
+locator=JN47GA
+qth=Mt. Rigi
+antenna=4 x dipole
+direction=0
+height=1662
+power=10 TX
+
+[HB9BBD/P]
+frequency=2320.050
+locator=JN47GA
+qth=Mt. Rigi
+power=8 TX
+antenna=4 x Dipole
+direction=0
+height=1662
+
+[GM4LBV/B]
+frequency=3400.068
+locator=IO86RQ
+power=25
+antenna=Slot
+direction=120
+height=350
+
+[HB9MPU]
+frequency=5760.040
+locator=JN47HD
+antenna=3 x Horn
+direction=0
+power=0.2 TX
+height=1000
+
+[G4LOJ/B]
+frequency=5760.970
+locator=JO02QN
+
+[HB9MPU/B]
+frequency=10368.050
+locator=JN47HD
+antenna=3 x Horn
+power=0.5 TX
+direction=0
+height=1000
+
+[LX1DU/B]
+frequency=10368.050
+locator=JN29XM
+antenna=1.3m Dish
+power=20000
+direction=63
+height=280
+
+[DK4GD/B]
+frequency=10368.061
+locator=JN47FW
+
+[GM4ISM]
+frequency=10368.073
+locator=IO85BU
+antenna=Slot
+height=370
+power=0.5
+
+[F6DWG]
+frequency=10368.842
+locator=JN09WI
+antenna=Slot
+power=200
+
+[F6DKW]
+frequency=24048.100
+locator=JN18CS
+power=15
+antenna=Slot
+height=230
+
+[HB9MPU]
+frequency=24192.120
+locator=JN47HD
+power=0.3 TX
+antenna=2 x Horn
+direction=0,270
+height=1000
+
+[F6DWG]
+frequency=24192.170
+locator=JN09WI
+power=1000
+antenna=Dish
+direction=29
+height=240
+
+[OK1JKT]
+frequency=24192.225
+locator=JO60OK
+power=0.1
+antenna=Slot
+direction=205
+height=875
+
+[G8BKE/P]
+frequency=47088.905
+locator=IO80UU
+power=0.01 TX
+antenna=20dB Horn
+direction=80
+height=274

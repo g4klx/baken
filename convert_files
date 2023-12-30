@@ -1,0 +1,14 @@
+#! /bin/sh
+
+TEMP=/tmp/baken.$$
+
+for FILE in *file; do
+    if [ $FILE != Makefile -a $FILE != mapfile -a $FILE != cityfile ]; then
+	echo "Converting $FILE"
+
+	old2new $FILE > $TEMP
+	mv $TEMP $FILE
+    fi
+done
+
+rm -f $TEMP

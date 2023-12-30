@@ -1,0 +1,29 @@
+The Makefile for this package assumes that your libraries are in some sort
+of standard places. By default GTK+ installs itself in /usr/local/lib,
+whereas I forced it to install into /usr/lib on my system. This should not
+be a problem.
+
+To build baken, type:
+
+make
+
+and then:
+
+make install
+
+This will install the baken program into /usr/bin, the map and city files
+into /usr/share/baken, the beacon file into /var/baken, and the system wide
+configuration file into /etc. The path of the these files is hard coded into
+the program, so if you decide to install it elsewhere then you will need to
+modify the Makefile and rebuild the programs.
+
+If you already have baken installed, you can choose to install only parts
+of the package. By default "make install" will install everything, but using 
+"make install-prog" will install the programs, "make install-data" will
+install the satellite data, location data and the default user profile data,
+"make install-map" will install the map.
+
+Typing "make clean" will purge the baken distribution of unwanted crud.
+"make uninstall" will delete the baken program and all its data files.
+
+Jonathan Naylor  ON/G4KLX

@@ -1,0 +1,1502 @@
+[DF6NA]
+frequency=3400.000
+locator=JN49XS
+antenna=90cm Dish
+height=931
+power=5 TX
+
+[DG1KJG]
+frequency=3400.000
+locator=JO30NT
+antenna=1.4m Dish
+height=55
+power=10 TX
+
+[DK2MN/p]
+frequency=3400.000
+locator=JO32PC
+antenna=1.2m Dish
+height=168
+power=10 TX
+
+[DL2DR]
+frequency=3400.000
+locator=JO31TO
+antenna=90cm Dish
+height=50
+power=5 TX
+
+[DL3IAS]
+frequency=3400.000
+locator=JN49EJ
+antenna=1.0m Dish
+height=100
+power=4 TX
+
+[DL4OAN]
+frequency=3400.000
+locator=JO51BN
+antenna=1.0m Dish
+height=257
+power=5.5 TX
+
+[DL8YG]
+frequency=3400.000
+locator=JN49FO
+antenna=1.0m Dish
+height=100
+power=10 TX
+
+[PA3AWJ]
+frequency=3400.000
+locator=JO21GW
+antenna=90cm Dish
+height=42
+power=9 TX
+
+[PA3CEG]
+frequency=3400.000
+locator=JO33FB
+antenna=1.2m Dish
+height=28
+power=10 TX
+
+[PA5DD]
+frequency=3400.000
+locator=JO22IC
+antenna=75cm Dish
+height=6
+power=10 TX
+
+[PA0WWM]
+frequency=3400.000
+locator=JO22FE
+antenna=1.3m Dish
+height=16
+power=5 TX
+
+[PE1PFW]
+frequency=3400.000
+locator=JO22ID
+antenna=75cm Dish
+height=12
+power=5 TX
+
+[DF0MTL]
+frequency=3400.000
+locator=JO60OM
+antenna=70cm Dish
+height=892
+power=3 TX
+
+[PA6C]
+frequency=3400.000
+locator=JO33FB
+antenna=1.2m Dish
+height=28
+power=10 TX
+
+[DF6NA]
+frequency=5760.000
+locator=JN49XS
+antenna=90cm Dish
+height=931
+power=5 TX
+
+[DG1KJG]
+frequency=5760.000
+locator=JO30NT
+antenna=1.4m Dish
+height=55
+power=10 TX
+
+[DK2AN/p]
+frequency=5760.000
+locator=JO51CR
+antenna=90cm Dish
+height=173
+power=11 TX
+
+[DK2MN]
+frequency=5760.000
+locator=JO32PC
+antenna=1.2m Dish
+height=168
+power=4 TX
+
+[DL2DR]
+frequency=5760.000
+locator=JO31TO
+antenna=90cm Dish
+height=50
+power=20 TX
+
+[DL3IAS]
+frequency=5760.000
+locator=JN49EJ
+antenna=1.0m Dish
+height=100
+power=3 TX
+
+[DL4OAN]
+frequency=5760.000
+locator=JO51BN5.2W
+antenna=2dB Dish
+height=5507
+power=1.0m TX
+operator=.2W
+
+[DL6NCI]
+frequency=5760.000
+locator=JO50VI
+antenna=90cm Dish
+height=640
+power=15 TX
+
+[DL8YG]
+frequency=5760.000
+locator=JN49FO
+antenna=1.0m Dish
+height=100
+power=5 TX
+
+[DM2AFN]
+frequency=5760.000
+locator=JO61WB
+antenna=1.8m Dish
+height=340
+power=4 TX
+
+[F1PYR]
+frequency=5760.000
+locator=JN19BC
+antenna=90cm Dish
+power=4 TX
+
+[F6DRO]
+frequency=5760.000
+locator=JN03SM
+antenna=75cm Dish
+height=33
+power=8 TX
+
+[OE3LI]
+frequency=5760.000
+locator=JN88EC
+antenna=1.2m Dish
+height=200
+power=5 TX
+
+[OE3LI/3]
+frequency=5760.000
+locator=JN77XX
+antenna=1.2m Dish
+height=1040
+power=5 TX
+
+[OE8MI/8]
+frequency=5760.000
+locator=JN66UO
+antenna=1m Dish
+height=1750
+power=3 TX
+
+[OE8MI/8]
+frequency=5760.000
+locator=JN76XN
+antenna=1m Dish
+height=850
+power=3 TX
+
+[OK2ZZ]
+frequency=5760.000
+locator=JN89DN
+antenna=1.2m Dish
+height=700
+power=10 TX
+
+[OK2DL]
+frequency=5760.000
+locator=JN89DN
+antenna=1.2m Dish
+height=700
+power=10 TX
+
+[PA3AWJ]
+frequency=5760.000
+locator=JO21GW
+antenna=85cm Dish
+height=42
+power=18 TX
+
+[PA3CEG]
+frequency=5760.000
+locator=JO33FB
+antenna=1.2m Dish
+height=28
+power=10 TX
+
+[PA5DD]
+frequency=5760.000
+locator=JO22IC
+antenna=75cm Dish
+height=6
+power=10 TX
+
+[PA0EZ]
+frequency=5760.000
+locator=JO22OF
+antenna=75cm Dish
+height=31
+power=10 TX
+
+[PA0WWM]
+frequency=5760.000
+locator=JO22FE
+antenna=1.3m Dish
+height=16
+power=5 TX
+
+[PE1PFW]
+frequency=5760.000
+locator=JO22ID
+antenna=75cm Dish
+height=12
+power=7 TX
+
+[SM6EAN]
+frequency=5760.000
+locator=JO57WQ
+antenna=65cm Dish
+height=60
+power=15 TX
+
+[SM6ESG]
+frequency=5760.000
+locator=JO67CC
+antenna=1.6m Dish
+height=46
+power=20 TX
+
+[SM7ECM]
+frequency=5760.000
+locator=JO65NQ
+antenna=90cm Dish
+height=46
+power=15 TX
+
+[DF0MTL]
+frequency=5760.000
+locator=JO60OM
+antenna=60cm Dish
+height=892
+power=4 TX
+
+[OE3XXA]
+frequency=5760.000
+locator=JN88CH
+antenna=3.5m Dish
+height=500
+power=15 TX
+
+[OE5VRL/5]
+frequency=5760.000
+locator=JN78DK
+antenna=3.0m Dish
+height=875
+power=5 TX
+
+[OK2KZR]
+frequency=5760.000
+locator=JN89DN
+antenna=1.2m Dish
+height=700
+power=10 TX
+
+[OL2R]
+frequency=5760.000
+locator=JN89DN
+antenna=1.2m Dish
+height=700
+power=10 TX
+
+[PA6C]
+frequency=5760.000
+locator=JO33FB
+antenna=1.2m Dish
+height=28
+power=10 TX
+
+[DB1BX]
+frequency=10368.000
+locator=JO32OT
+antenna=60cm Dish
+height=38
+power=5 TX
+
+[DB4CE]
+frequency=10368.000
+locator=JN57DR
+antenna=80cm Dish
+height=831
+power=12 TX
+
+[DB6DY]
+frequency=10368.000
+locator=JO31RI
+antenna=70cm Dish
+height=120
+power=5 TX
+
+[DB6NT]
+frequency=10368.000
+locator=JO50TI
+antenna=90cm Dish
+height=700
+power=10 TX
+
+[DB8NU]
+frequency=10368.000
+locator=JN49WS
+antenna=80cm Dish
+height=360
+power=5 TX
+
+[DC6RW]
+frequency=10368.000
+locator=JN49HL
+antenna=68cm Dish
+height=100
+power=6 TX
+
+[DC6RW/p]
+frequency=10368.000
+locator=JN49BN
+antenna=68cm Dish
+height=317
+power=1 TX
+
+[DC6UW]
+frequency=10368.000
+locator=JO44VJ
+antenna=1.5m Dish
+height=70
+power=20 TX
+
+[DC8EC]
+frequency=10368.000
+locator=JN57UX
+antenna=60cm Dish
+height=600
+power=1.2 TX
+
+[DC9KK]
+frequency=10368.000
+locator=JO30NT
+antenna=1 Dish
+height=2241
+power=5 TX
+
+[DC9YC]
+frequency=10368.000
+locator=JO31PI
+antenna=68cm Dish
+height=240
+power=7 TX
+
+[DD5OI]
+frequency=10368.000
+locator=JN57UV
+antenna=90cm Dish
+height=700
+power=5 TX
+
+[DD7MH]
+frequency=10368.000
+locator=JN68HD
+antenna=70cm Dish
+height=460
+power=4 TX
+
+[DF1EO]
+frequency=10368.000
+locator=JO31MD
+antenna=48cm Dish
+height=212
+power=.25 TX
+
+[DF1OI]
+frequency=10368.000
+locator=JO42TF
+antenna=70cm Dish
+height=110
+power=.2 TX
+
+[DF1IAZ]
+frequency=10368.000
+locator=JN49LD
+antenna=48cm Dish
+height=220
+power=.2 TX
+
+[DF2CK/p]
+frequency=10368.000
+locator=JO71BD
+antenna=65cm Dish
+height=353
+power=.2 TX
+
+[DF3CK]
+frequency=10368.000
+locator=JN57UV
+antenna=2.0m Dish
+height=700
+power=10 TX
+
+[DF5DP]
+frequency=10368.000
+locator=JO31OM
+antenna=60cm Dish
+height=80
+power=.25 TX
+
+[DF5JJ]
+frequency=10368.000
+locator=JO43XO
+antenna=80cm Dish
+height=50
+power=1.2 TX
+
+[DF6NA]
+frequency=10368.000
+locator=JN49XS
+antenna=90cm Dish
+height=235
+power=5 TX
+
+[DF6TK]
+frequency=10368.000
+locator=JN47TT
+antenna=90cm Dish
+height=470
+power=5 TX
+
+[DF7RG]
+frequency=10368.000
+locator=JN68GI
+
+[DF9RJ]
+frequency=10368.000
+locator=JN68GS
+antenna=60cm Dish
+height=365
+power=5 TX
+
+[DG0RG]
+frequency=10368.000
+locator=JO62JV
+antenna=90cm Dish
+height=70
+power=1 TX
+
+[DG0VE]
+frequency=10368.000
+locator=JO71AG
+antenna=1.2m Dish
+height=180
+power=0.2 TX
+
+[DG1KJG]
+frequency=10368.000
+locator=JO30NT
+antenna=1.4m Dish
+height=55
+power=6 TX
+
+[DG1VL/p]
+frequency=10368.000
+locator=JO61XE
+antenna=60cm Dish
+height=353
+power=1 TX
+
+[DG5NEX]
+frequency=10368.000
+locator=JN49WS
+antenna=80cm Dish
+height=360
+power=5 TX
+
+[DG7MHR]
+frequency=10368.000
+locator=JN57DR
+antenna=65cm Dish
+height=715
+power=11 TX
+
+[DG8EB]
+frequency=10368.000
+locator=JO60CK
+antenna=70cm Dish
+power=5 TX
+
+[DH8AG]
+frequency=10368.000
+locator=JO31RL
+antenna=60cm Dish
+power=3 TX
+
+[DH9NBB]
+frequency=10368.000
+locator=JN49WS
+antenna=80cm Dish
+height=360
+power=5 TX
+
+[DJ1KP]
+frequency=10368.000
+locator=JO40JJ
+antenna=60cm Dish
+height=195
+power=1.5 TX
+
+[DJ1SHF]
+frequency=10368.000
+locator=JO73AL
+antenna=90cm Dish
+height=63
+power=.25 TX
+
+[DJ4YJ]
+frequency=10368.000
+locator=JN68GS
+antenna=60cm Dish
+height=365
+power=5 TX
+
+[DJ5BV]
+frequency=10368.000
+locator=JO30MR
+antenna=90cm Dish
+height=228
+power=15 TX
+
+[DJ5VW]
+frequency=10368.000
+locator=JO31RJ
+antenna=1.2m Dish
+height=120
+power=8 TX
+
+[DJ8ES]
+frequency=10368.000
+locator=JO43SX
+antenna=60cm Dish
+height=4893
+power=1.5 TX
+
+[DJ9DW]
+frequency=10368.000
+locator=JO40LE
+antenna=1.3m Dish
+height=130
+power=10 TX
+
+[DK0OG]
+frequency=10368.000
+locator=JN68GI
+antenna=1.2m Dish
+height=524
+power=5 TX
+
+[DK1KR]
+frequency=10368.000
+locator=JO53HW
+antenna=60cm Dish
+height=85
+power=6 TX
+
+[DK2AN/p]
+frequency=10368.000
+locator=JO51CR
+antenna=90cm Dish
+height=173
+power=22 TX
+
+[DK2DB]
+frequency=10368.000
+locator=JN48FW
+antenna=50cm Dish
+height=721
+power=.65 TX
+
+[DK2MN]
+frequency=10368.000
+locator=JO32MC
+antenna=90cm Dish
+height=60
+power=10 TX
+
+[DK2MN/p]
+frequency=10368.000
+locator=JO32PC
+antenna=90cm Dish
+height=168
+power=10 TX
+
+[DK3IK]
+frequency=10368.000
+locator=JN39JF
+antenna=40cm Dish
+height=250
+power=0.5 TX
+
+[DK4GD]
+frequency=10368.000
+locator=JN47GW
+antenna=1.0m Dish
+height=770
+power=12 TX
+
+[DK4VW]
+frequency=10368.000
+locator=JO40IT
+antenna=60cm Dish
+height=330
+power=4 TX
+
+[DK5KK]
+frequency=10368.000
+locator=JO63EX
+antenna=50cm Dish
+power=1 TX
+
+[DK5WA]
+frequency=10368.000
+locator=JN39IQ
+antenna=60cm Dish
+height=300
+power=.2 TX
+
+[DK8ZP]
+frequency=10368.000
+locator=JO40JJ
+antenna=60cm Dish
+height=195
+power=1.5 TX
+
+[DK9MN]
+frequency=10368.000
+locator=JN58TC
+antenna=70cm Dish
+height=580
+power=10 TX
+
+[DL1CF]
+frequency=10368.000
+locator=JO42XD
+antenna=60cm Dish
+height=80
+power=12 TX
+
+[DL1GGT]
+frequency=10368.000
+locator=JN58AO
+antenna=60cm Dish
+height=640
+power=5 TX
+
+[DL1HEL]
+frequency=10368.000
+locator=JN57XU
+antenna=60cm Dish
+height=500
+power=1 TX
+
+[DL1YMK]
+frequency=10368.000
+locator=JO31QX
+antenna=50cm Dish
+height=200
+power=12 TX
+
+[DL2ABO]
+frequency=10368.000
+locator=JO51CR
+antenna=48cm Dish
+height=280
+power=1 TX
+
+[DL2DR]
+frequency=10368.000
+locator=JO31TO
+antenna=90cm Dish
+height=50
+power=20 TX
+
+[DL2NUD]
+frequency=10368.000
+locator=JO63LE
+antenna=1.2m Dish
+height=75
+power=6 TX
+
+[DL3EAG]
+frequency=10368.000
+locator=JO31DK
+antenna=48cm Dish
+height=30
+power=20 TX
+
+[DL3IAS]
+frequency=10368.000
+locator=JN49EJ
+antenna=48cm Dish
+height=100
+power=1 TX
+
+[DL3NQ]
+frequency=10368.000
+locator=JN49IN
+antenna=1.2m Dish
+height=155
+power=18 TX
+
+[DL3MBG]
+frequency=10368.000
+locator=JN68GI
+
+[DL3YEE]
+frequency=10368.000
+locator=JO42GE
+antenna=50cm Dish
+height=60
+power=4 TX
+
+[DL3YEL]
+frequency=10368.000
+locator=JO41EV
+antenna=50cm Dish
+height=75
+power=2.5 TX
+
+[DL4DTU]
+frequency=10368.000
+locator=JO61UA
+antenna=60cm Dish
+height=280
+power=1 TX
+
+[DL4EAU/p]
+frequency=10368.000
+locator=JO51DR
+antenna=60cm Dish
+height=200
+power=1 TX
+
+[DL4IB]
+frequency=10368.000
+locator=JO64CC
+antenna=48cm Dish
+height=40
+power=0.2 TX
+
+[DL4OAN]
+frequency=10368.000
+locator=JO51BN
+antenna=70cm Dish
+height=257
+power=11.2 TX
+
+[DL4WO]
+frequency=10368.000
+locator=JO61WC
+antenna=90cm Dish
+height=250
+power=5 TX
+
+[DL5LF]
+frequency=10368.000
+locator=JO54AF
+antenna=60cm Dish
+height=4347
+power=1 TX
+
+[DL6NCI]
+frequency=10368.000
+locator=JO50VI
+antenna=90cm Dish
+height=640
+power=10 TX
+
+[DL6NCI/p]
+frequency=10368.000
+locator=JO50VA
+antenna=48cm Dish
+height=1040
+power=5 TX
+
+[DL6YYM/p]
+frequency=10368.000
+locator=JO61GR
+antenna=85cm Dish
+height=150
+power=1 TX
+
+[DL8YG]
+frequency=10368.000
+locator=JN49FO
+antenna=70cm Dish
+height=100
+power=15 TX
+
+[DL9IC]
+frequency=10368.000
+locator=JO62QM
+antenna=48cm Dish
+height=66
+power=5 TX
+
+[DM2AFN]
+frequency=10368.000
+locator=JO61WB
+antenna=2.0m Dish
+height=340
+power=6 TX
+
+[F1PYR]
+frequency=10368.000
+locator=JN19BC
+antenna=90cm Dish
+power=4 TX
+
+[F5HRY]
+frequency=10368.000
+locator=JN18EQ
+antenna=60cm Dish
+height=110
+power=6 TX
+
+[F5MKD]
+frequency=10368.000
+locator=JN38UP
+antenna=95cm Dish
+height=33
+power=2 TX
+
+[F6DRO]
+frequency=10368.000
+locator=JN03SM
+antenna=60cm Dish
+height=33
+power=4 TX
+
+[F6DKW]
+frequency=10368.000
+locator=JN18CS
+antenna=60cm Dish
+height=210
+power=10 TX
+
+[F6DWG/p]
+frequency=10368.000
+locator=JN19AJ
+antenna=90cm Dish
+height=33
+power=10 TX
+
+[G4EAT]
+frequency=10368.000
+locator=JO01HR
+antenna=60cm Dish
+height=110
+power=10 TX
+
+[G4BRK]
+frequency=10368.000
+locator=IO91DP
+antenna=60cm Dish
+height=130
+power=10 TX
+
+[HB9RG]
+frequency=10368.000
+locator=JN47HF
+antenna=1.2m Dish
+height=800
+power=20 TX
+
+[HB9CZF]
+frequency=10368.000
+locator=JN47HI
+antenna=60cm Dish
+height=610
+power=5 TX
+
+[IW3FZQ/4]
+frequency=10368.000
+locator=JN54QF
+antenna=60cm Dish
+height=750
+power=1 TX
+
+[OE3LI]
+frequency=10368.000
+locator=JN88EC
+antenna=1.2m Dish
+height=200
+power=5 TX
+
+[OE3LI/3]
+frequency=10368.000
+locator=JN77XX
+antenna=1.2m Dish
+height=1040
+power=5 TX
+
+[OE5VRL/5]
+frequency=10368.000
+locator=JN78DK
+antenna=3.0m Dish
+height=875
+power=18 TX
+
+[OE8MI/8]
+frequency=10368.000
+locator=JN66UO
+antenna=1.0m Dish
+height=1750
+power=4 TX
+
+[OE8MI/8]
+frequency=10368.000
+locator=JN76XN
+antenna=1.0m Dish
+height=850
+power=4 TX
+
+[OK1DIG]
+frequency=10368.000
+locator=JO60XJ
+antenna=75cm Dish
+height=307
+power=10 TX
+
+[OK1JKT]
+frequency=10368.000
+locator=JO60OK
+antenna=94cm Dish
+height=875
+power=5.5 TX
+
+[OK2BFH]
+frequency=10368.000
+locator=JN99FN
+antenna=80cm Dish
+height=1323
+power=5 TX
+
+[OK2BPR]
+frequency=10368.000
+locator=JN99FU
+antenna=60cm Dish
+height=420
+power=1 TX
+
+[OK2DL]
+frequency=10368.000
+locator=JN89DN
+antenna=1.20m Dish
+height=700
+power=6.5 TX
+
+[OK2ZZ]
+frequency=10368.000
+locator=JN89DN
+antenna=1.20m Dish
+height=700
+power=6.5 TX
+
+[ON7WR]
+frequency=10368.000
+locator=JO20EP
+antenna=45cm Dish
+height=45
+power=6 TX
+
+[OZ1FF]
+frequency=10368.000
+locator=JO45BO
+antenna=65cm Dish
+height=23
+power=5 TX
+
+[OZ2TG]
+frequency=10368.000
+locator=JO65FP
+antenna=60cm Dish
+height=12
+power=1 TX
+
+[PA3AWJ]
+frequency=10368.000
+locator=JO21GW
+antenna=85cm Dish
+height=42
+power=4 TX
+
+[PA3CEG]
+frequency=10368.000
+locator=JO33FB
+antenna=75cm Dish
+power=20 TX
+
+[PA5DD]
+frequency=10368.000
+locator=JO22IC
+antenna=75cm Dish
+height=6
+power=10 TX
+
+[PA0CIS]
+frequency=10368.000
+locator=JO22FD
+antenna=70cm Dish
+power=25 TX
+
+[PA0BAT]
+frequency=10368.000
+locator=JO31FX
+antenna=80cm Dish
+height=45
+power=3 TX
+
+[PA0EZ]
+frequency=10368.000
+locator=JO22OF
+antenna=75cm Dish
+height=31
+power=20 TX
+
+[PA0WWM]
+frequency=10368.000
+locator=JO22FE
+antenna=50cm Dish
+height=17
+power=4.5 TX
+
+[PE1PFW]
+frequency=10368.000
+locator=JO22ID
+antenna=75cm Dish
+height=12
+power=6 TX
+
+[SM6EAN]
+frequency=10368.000
+locator=JO57WQ
+antenna=65cm Dish
+height=60
+power=6 TX
+
+[SM6ESG]
+frequency=10368.000
+locator=JO67CC
+antenna=50cm Dish
+height=25
+power=40 TX
+
+[SM7ECM]
+frequency=10368.000
+locator=JO65NQ
+antenna=90cm Dish
+height=33
+power=8 TX
+
+[SP6GWB]
+frequency=10368.000
+locator=JO80JG
+antenna=1.2m Dish
+height=1150
+power=3 TX
+
+[DK0FLT]
+frequency=10368.000
+locator=JN59FW
+antenna=80cm Dish
+height=488
+power=10 TX
+
+[DF0MTL]
+frequency=10368.000
+locator=JO60OM
+antenna=1.0m Dish
+height=892
+power=4 TX
+
+[DK0OG]
+frequency=10368.000
+locator=JN68GI
+antenna=1.2m Dish
+height=524
+power=5 TX
+
+[DL0UL]
+frequency=10368.000
+locator=JN48UO
+antenna=70cm Dish
+height=800
+power=20 TX
+
+[OE3XXA]
+frequency=10368.000
+locator=JN88CH
+antenna=3.5m Dish
+height=500
+power=10 TX
+
+[OL2R]
+frequency=10368.000
+locator=JN89DN
+antenna=1.2m Dish
+height=780
+power=6 TX
+
+[OK2KZR]
+frequency=10368.000
+locator=JN89DN
+antenna=1.2m Dish
+height=700
+power=6.5 TX
+
+[PA6C]
+frequency=10368.000
+locator=JO33FB
+antenna=75cm Dish
+height=34
+power=20 TX
+
+[DB1BX]
+frequency=24192.000
+locator=JO32OT
+antenna=48cm Dish
+height=38
+power=70m TX
+
+[DB6DY]
+frequency=24192.000
+locator=JO31RI
+antenna=70cm Dish
+height=120
+power=80m TX
+
+[DB6NT]
+frequency=24192.000
+locator=JO50TI
+antenna=60cm Dish
+height=700
+power=8Watt TX
+
+[DC6RW]
+frequency=24192.000
+locator=JN49HL
+antenna=68cm Dish
+height=100
+power=50m TX
+
+[DC6RW/p]
+frequency=24192.000
+locator=JN49BN
+antenna=68cm Dish
+height=317
+power=50m TX
+
+[DC8EC]
+frequency=24192.000
+locator=JN57UX
+antenna=48cm Dish
+height=600
+power=60m TX
+
+[DC9YC]
+frequency=24192.000
+locator=JO31PJ
+antenna=48cm Dish
+height=240
+power=80mw TX
+
+[DD7MH]
+frequency=24192.000
+locator=JN68HD
+antenna=70cm Dish
+height=460
+power=40m TX
+
+[DF5JJ]
+frequency=24192.000
+locator=JO43XO
+antenna=80cm Dish
+height=50
+power=90m TX
+
+[DJ1KP]
+frequency=24192.000
+locator=JO40JJ
+antenna=60cm Dish
+height=195
+power=100m TX
+
+[DJ5VW]
+frequency=24192.000
+locator=JO31RJ
+antenna=1.2m Dish
+height=120
+power=70m TX
+
+[DK2MN]
+frequency=24192.000
+locator=JO32MC
+antenna=60cm Dish
+height=60
+power=1 TX
+
+[DK2MN/p]
+frequency=24192.000
+locator=JO32PC
+antenna=60cm Dish
+height=168
+power=1 TX
+
+[DK5KK]
+frequency=24192.000
+locator=JO63EX
+antenna=65cm Dish
+power=15m TX
+
+[DK8ZP]
+frequency=24192.000
+locator=JO40JJ
+antenna=60cm Dish
+height=195
+power=100m TX
+
+[DK9MN]
+frequency=24192.000
+locator=JN58TC
+antenna=70cm Dish
+height=580
+power=100m TX
+
+[DK0OG]
+frequency=24192.000
+locator=JN68GI
+antenna=48cm Dish
+height=524
+power=40m TX
+
+[DL2ABO]
+frequency=24192.000
+locator=JO51CR
+antenna=48cm Dish
+height=280
+power=0.1m TX
+
+[DL2DR]
+frequency=24192.000
+locator=JO31TO
+antenna=90cm Dish
+height=50
+power=80m TX
+
+[DL2NUD]
+frequency=24192.000
+locator=JO63LE
+antenna=1.2m Dish
+height=75
+power=100m TX
+
+[DL3YEE]
+frequency=24192.000
+locator=JO42GE
+antenna=25cm Dish
+height=320
+power=80m TX
+
+[DL4OAN]
+frequency=24192.000
+locator=JO51BN
+antenna=.5m Dish
+height=257
+power=270m TX
+
+[DL6NCI]
+frequency=24192.000
+locator=JO50VI
+antenna=90cm Dish
+height=640
+power=1 TX
+
+[DL6NCI/p]
+frequency=24192.000
+locator=JO50VA
+antenna=48cm Dish
+height=1040
+power=0.6 TX
+
+[F1PYR]
+frequency=24192.000
+locator=JN19BC
+antenna=90cm Dish
+power=0.1 TX
+
+[F6DWG/p]
+frequency=24192.000
+locator=JN19AJ
+antenna=90cm Dish
+power=100m TX
+
+[IW3FZQ/4]
+frequency=24192.000
+locator=JN54QF
+antenna=60cm Dish
+height=750
+power=105m TX
+
+[OE5VLR/5]
+frequency=24192.000
+locator=JN78DK
+antenna=3m Dish
+height=875
+power=60m TX
+
+[PA3AWJ]
+frequency=24192.000
+locator=JO21GW
+antenna=48cm Dish
+height=42
+power=44m TX
+
+[PA3CEG]
+frequency=24192.000
+locator=JO33FB
+antenna=60cm Dish
+height=34
+power=80m TX
+
+[PA5DD]
+frequency=24192.000
+locator=JO22IC
+antenna=48cm Dish
+height=6
+power=100m TX
+
+[PA0BAT]
+frequency=24192.000
+locator=JO31FX
+antenna=80cm Dish
+height=45
+power=100m TX
+
+[PA0EZ]
+frequency=24192.000
+locator=JO22OF
+antenna=38cm Dish
+height=20
+power=250m TX
+
+[SM6ESG]
+frequency=24192.000
+locator=JO67CC
+antenna=60cm Dish
+height=25
+power=100m TX
+
+[SM7ECM]
+frequency=24192.000
+locator=JO65NQ
+antenna=30cm Dish
+height=33
+power=100m TX
+
+[PA6C]
+frequency=24192.000
+locator=JO33FB
+antenna=60cm Dish
+height=34
+power=80m TX
+
+[DB6NT]
+frequency=24192.000
+locator=JO50TI
+antenna=40cm Dish
+height=700
+power=40m TX
+
+[DK2AN/p]
+frequency=24192.000
+locator=JO51CR
+antenna=30cm Dish
+height=173
+power=7m TX
+
+[DK2MN]
+frequency=24192.000
+locator=JO32MC
+antenna=48cm Dish
+height=60
+power=200u TX
+
+[DK2MN/p]
+frequency=24192.000
+locator=JO32PC
+antenna=48cm Dish
+height=168
+power=200u TX
+
+[DL3YEE]
+frequency=24192.000
+locator=JO42GE
+antenna=25cm Dish
+height=320
+power=100u TX
+
+[DL4OAN]
+frequency=24192.000
+locator=JO51BN
+antenna=0.3m Dish
+height=257
+power=22m TX
+
+[DL6NCI/p]
+frequency=24192.000
+locator=JO50VA
+antenna=48cm Dish
+height=1040
+power=15m TX
+
+[F1PYR]
+frequency=24192.000
+locator=JN19BC
+antenna=90cm Dish
+power=100u TX
+
+[F6DWG/p]
+frequency=24192.000
+locator=JN19AJ
+antenna=90cm Dish
+power=20m TX
+
+[IW3FZQ/4]
+frequency=24192.000
+locator=JN54QF
+antenna=60cm Dish
+height=750
+power=200u TX
+
+[PA3AWJ]
+frequency=24192.000
+locator=JO21GW
+antenna=48cm Dish
+height=42
+power=10u TX
+
